@@ -13,16 +13,29 @@ The meeting ID is **??? ???? ????**, and the password is **??????**.
 Interns will be split into three groups.
 
 ### Green Group
-The green group will work on going through the [Web 101](https://hylandtechclub.com/web-101) and [Web 102](https://hylandtechclub.com/web-102) Hy-Tech Club curriculum. They will also go through the [CS Fundamentals Express](https://studio.code.org/s/express-2021) curriculum from Code.org, and will hopefully be able to help facilitate some learning sessions.
+The green group will meet virtually and through the instructor-led [Web 101](https://hylandtechclub.com/web-101) and [Web 102](https://hylandtechclub.com/web-102) Hy-Tech Club curriculum. They will also go through the self-paced [CS Fundamentals Express](https://studio.code.org/s/express-2021) curriculum from Code.org, and will help facilitate camp sessions with Urban Community School in July.
+
+- Enes
+- Chahak
 
 ### Blue Group
-The blue group will work as a software development team with the goal of creating a Student Profile Database. The Hyland Tech Outreach team plans to use this web application to help keep track of students in a more sustainable way.
+The blue group will work as a software development team with the goal of creating a Student Profile Database. The Hyland Tech Outreach team plans to use this web application to help keep track of students in a more sustainable way. The Blue group will be working in-person at Hyland HQ for the most part, but will also be able to complete work virtually.
+
+- Dima
+- Matthew
+- Michael
+- Tyler
 
 ### Yellow Group
 The yellow group will work as a software development team with the goal of creating a Universal Changing Table Locator application. We hope for this to become a real, legitimate app that can be used to help caregivers find changing tables wherever they are.
 
+- Nihal
+- Neel
+- Aakarsh
+- Bella
+
 ## Scheduling
-There will be some important meetings to attend, either in-person or on Zoom. There will also be a lot of time spent working (aka "homework") that will not require any specific timing; the only necessity is that you reach **150 hours** for the internship.
+There will be some important meetings to attend, either in-person or on Zoom. There will also be a lot of time spent working (aka "homework") that will not require any specific timing.
 
 ## Intern Expectations
 There are some basic expectations we hope all interns will be able to meet.
