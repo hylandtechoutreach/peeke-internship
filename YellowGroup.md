@@ -24,6 +24,8 @@ The application uses a number of technologies. Here are some of the most importa
 In order to contribute to the project, it will be helpful to learn a bit about some of the tools you will be using.
 
 - [Basic Full-Stack Web Development Concepts - Web 201](https://hylandtechclub.com/web-201)
+- [Express Tutorial Video](https://www.youtube.com/watch?v=SccSCuHhOw0)
+- [In-Depth JavaScript Introduction](https://eloquentjavascript.net/)
 - [Using the Command Line](https://hylandtechclub.com/web-201/CommandLine/StudentDesc.html)
   - Play the [Terminus Game](http://www.mprat.org/Terminus/)
 - [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
