@@ -23,6 +23,6 @@ There are a few basic steps you'll want to follow to get the project up and runn
   - Create a file in the **back-end** folder named **.env**
   - Get the URI for the db, and paste it into the `MONGO_URI="<secret uri>"` area
   - On the next line, create a `SECRET_KEY="<secret key>"` with any value
-  - Run `npm install` in both the **back-end** and **front-end** directories
+  - Run the `npm install` command from the command line in the main folder
 
 Once everything is properly setup, you should be able to run the front-end and back-end and see the app locally.
