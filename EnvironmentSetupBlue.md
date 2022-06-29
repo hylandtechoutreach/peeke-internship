@@ -1,4 +1,4 @@
-# Environment Setup - Yellow Group
+# Environment Setup - Blue Group
 Follow these steps to ensure you have the proper setup to start working on the project.
 
 ## Things to Download and Install
