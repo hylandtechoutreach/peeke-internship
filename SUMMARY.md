@@ -1,3 +1,5 @@
 - [Basic Rundown](BasicRundown.md)
 - [Yellow Group](YellowGroup.md)
   - [Environment Setup](EnvironmentSetupYellow.md)
+- [Blue Group](BlueGroup.md)
+  - [Environment Setup](EnvironmentSetupBlue.md)
