@@ -24,4 +24,4 @@ There are a few basic steps you'll want to follow to get the project up and runn
 Once everything is properly setup, you should be able to run the server and see the app locally.
 
 ## Next Steps
-After the database code has been setup, it will be necessary to create a database using [MongoDB Atlas](https://www.mongodb.com/docs/atlas/getting-started/). Then you will need to point your local app to that database.
+After the database code has been setup, it will be necessary to create a database using MongoDB Atlas. [Follow these instructions to get that working](MongoAtlasSetup.md).

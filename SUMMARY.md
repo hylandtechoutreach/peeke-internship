@@ -3,3 +3,4 @@
   - [Environment Setup](EnvironmentSetupYellow.md)
 - [Blue Group](BlueGroup.md)
   - [Environment Setup](EnvironmentSetupBlue.md)
+- [Mongo Atlas Setup](MongoAtlasSetup.md)
