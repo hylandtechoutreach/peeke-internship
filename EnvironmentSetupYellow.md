@@ -18,11 +18,10 @@ There are a few basic steps you'll want to follow to get the project up and runn
   - Click the green "Code" dropdown button and copy the "HTTPS" URL
   - In VS Code, press `Ctrl`+`Shift`+`p` and enter "Git: Clone"
   - Select a folder, then open the folder
-1. Follow the instructions on the GitHub Repository README
-  - Make an account on MongoDB Atlas, and create a free DB
-  - Create a file in the **back-end** folder named **.env**
-  - Get the URI for the db, and paste it into the `MONGO_URI="<secret uri>"` area
-  - On the next line, create a `SECRET_KEY="<secret key>"` with any value
-  - Run the `npm install` command from the command line in the main folder
+1. [Create a database in MongoDB Atlas](MongoAtlasSetup.md)
+  - The steps include setting up the cloud DB, connecting to it through the app, and creating a **.env** file
+1. Run the `npm install` command from the command line in the main folder
+1. Run `nx start uct-locator-front-end` to run the front-end app
+1. Run `nx server uct-locator-back-end` to run the back-end app
 
-Once everything is properly setup, you should be able to run the front-end and back-end and see the app locally.
+Once everything is properly setup, you should be able to see the app running locally!
