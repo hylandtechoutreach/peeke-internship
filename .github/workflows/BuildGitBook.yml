@@ -1,4 +1,4 @@
-name: Gitbook Test
+name: Build GitBook
 on: [push]
 
 jobs:
