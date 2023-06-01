@@ -1,4 +1,5 @@
 - [Basic Rundown](BasicRundown.md)
 - [Project Information](ProjectInformation.md)
+  - [Technologies](Technologies.md)
 - [Environment Setup](EnvironmentSetup.md)
   - [Mongo Atlas Setup](MongoAtlasSetup.md)
