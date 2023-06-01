@@ -20,6 +20,8 @@ In order to contribute to the project, it will be helpful to learn a bit about s
     - **communication layer**: how the client and server communicate (Socket.IO for this project)
 1. Practice using the command line by playing [this game](http://www.mprat.org/Terminus/)
 1. Learn how JavaScript/TypeScript to build web servers with [Node.js](https://nodejs.dev/en/learn/) and [Express](https://expressjs.com/)
+1. See how to store and access data with [MongoDB](https://www.mongodb.com/docs/manual/introduction/)
+    - Also, see how to integrate with Node.js by using [Mongoose](https://mongoosejs.com/docs/index.html)
 1. Learn the basics of React with [this tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
     - Get into the [React mindset](https://react.dev/learn/thinking-in-react)
     - Go deeper with the full guide, starting [here](https://react.dev/learn/describing-the-ui)
