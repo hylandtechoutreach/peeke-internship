@@ -7,7 +7,7 @@ The project uses a number of technologies. Here are some of the most important o
 - React (Front-End, using TypeScript)
 - Git + GitHub (version control)
 
-## Learning
+## Learning Checklist
 In order to contribute to the project, it will be helpful to learn a bit about some of the tools you will be using. It can be somewhat overwhelming to try to learn so many things at once, so try to take it one step at a time. It will also be imperative that you can learn while updating project code.
 
 1. Fill in any knowledge gaps with this [JavaScript Tutorial](https://javascript.info/)
