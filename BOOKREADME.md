@@ -1,15 +1,14 @@
 # Hyland Y.O.U. PEEKE Internship
-Welcome to the 2022 PEEKE Internship program at Hyland!
+Welcome to the 2023 PEEKE Internship program at Hyland!
 
 ## Basic Rundown
 Check out the [basic rundown](BasicRundown.md) of the internship.
 
 ## Discord
-Join the [discord server](https://discord.gg/GMCuKE5GbT).
+Join the [discord server](https://discord.gg/tpw6McuEPJ).
 
-## Web 201
-- [Material](https://hylandtechclub.com/web-201/)
-- [Review Blooket](https://dashboard.blooket.com/set/626001bf34a6242f102ac990)
+## Project Information
+[Click here to review the project information.](ProjectInformation.md)
 
-## Yellow Group
-Members of the Yellow Group should view [this page](YellowGroup.md) for important information.
+## Environment Setup
+[Set up your environment](EnvironmentSetup.md), including creating your own database with [MongoDB Atlas](MongoAtlasSetup.md).
