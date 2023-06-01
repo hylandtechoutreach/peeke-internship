@@ -8,7 +8,7 @@ Check out the [basic rundown](BasicRundown.md) of the internship.
 Join the [discord server](https://discord.gg/tpw6McuEPJ).
 
 ## Project Information
-[Click here to review the project information.](ProjectInformation.md)
+Review the [project information](ProjectInformation.md), and check out the [technologies](Technologies.md) used.
 
 ## Environment Setup
 [Set up your environment](EnvironmentSetup.md), including creating your own database with [MongoDB Atlas](MongoAtlasSetup.md).
