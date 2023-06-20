@@ -30,6 +30,17 @@ This meeting will consider all aspects of the user experience for the game. The 
 ### Midsummer Demo
 Interns should use this time to practice demonstrating the software. They should be able to present their work to some group of stakeholders, and show off what they've accomplished. The main focus should be on the product itself, and the "stakeholders" (who could be anyone) should get a chance to see the game in action.
 
+### Final Presentation
+As a group, the interns should do a final presentation about their project. The presentation should include:
+
+- Background about each intern
+- Brief discussion of the product architecture
+- Rundown of each intern's contributions to the project
+- Lessons learned along the way
+- A demonstration of the software
+
+Each intern should be responsible for leading one part of the presentation.
+
 ## Additional Considerations
 If the interns find that they have run out of work to do, here are some additional avenues they can venture down:
 
